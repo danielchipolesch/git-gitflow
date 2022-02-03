@@ -1,3 +1,4 @@
+![git img](https://www.embarcados.com.br/wp-content/uploads/2015/02/imagem-de-destaque-39-850x510.png)
 # How to initialize any project
 How to initialize any new project with git e git flow before adding any framework or library.
 
