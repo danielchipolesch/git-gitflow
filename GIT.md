@@ -19,23 +19,24 @@ Note: To update source repository:
 $ git remote set-url origin "https://github.com/.../project-name.git"
 ```
 ```
-$ git pull origin "BRANCH"     // Update the repository branch with the last branch version of source repository
+$ git pull origin "BRANCH"     // Updates the repository branch with the last branch version of source repository
 ```
 ```
-$ git add "file_name.js"     // Add file with changes uncommited to a staged file area
+$ git add "file_name.js"     // Adds file with changes uncommited to a staged file area
 
 Note: To add all files together:
-$ git add . (change the file name for a dot)
+$ git add . (Changes the file name for a dot)
 ```
 ```
-$ git commit -m "commit message"     // Commit stagged files
+$ git commit -m "commit message"     // Commits stagged files
 ```
 ```
-$ git push -u origin [BRANCH]     // Send the last modifications that are in HEAD index repository from selected branch to source branch project
+$ git push -u origin "branch"
+// Sends the last modifications that are in HEAD index repository from selected branch to source branch project
 ```
 ```
-$ git checkout [BRANCH]     // Changes branch from working to selected
+$ git checkout "branch"     // Changes branch from working to selected
 ```
 ```
-$ gitk     // Open git default interface
+$ gitk     // Opens git default interface
 ```
