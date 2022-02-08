@@ -18,15 +18,8 @@ $ mkdir project-name  // It creates a path named "project-name"
 $ cd project-name     // This command you enter in that path
 ```
 
-## Git init
-### On shell and inside "project-name" path type:
-
-```
-$ git init     // It must return a message like "Initialized empty Git repository in C:/.../project-name/.git"
-```
-
 ## Git flow init
-### Then type:
+### Type:
 
 ```
 $ git flow init
